@@ -1,0 +1,33 @@
+Decode the logic and print the Pattern that corresponds to given input. If N= 4 then pattern will be
+
+1*2*3*4*17*18*19*20
+  5*6*7*14*15*16
+    8*9*12*13
+      10*11
+Input Format
+
+First Line contain an integer N.
+Constraints
+
+1 ≤  T ≤ 100
+
+1 ≤  N ≤ 30
+Output Format
+
+print the pattern of N lines.
+Sample Input 0
+
+4
+Sample Output 0
+
+1*2*3*4*17*18*19*20
+  5*6*7*14*15*16
+    8*9*12*13
+      10*11
+Sample Input 1
+
+2
+Sample Output 1
+
+1*2*5*6
+  3*4
